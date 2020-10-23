@@ -1,4 +1,9 @@
-# retro-generator
+# WRETROMANIA
+![WRETROMANIA Logo](images/logo.png)
+
+On the verge of being pinned by time when prepping to facilitate a retrospective?!
+
+## retro-generator
 [Google Apps Scripting](https://developers.google.com/apps-script) to generate retro Google Doc
 
 This generator is used to create and prefill our retrospectives template with the names and initials of the attendees.

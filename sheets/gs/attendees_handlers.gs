@@ -1,8 +1,8 @@
 var ui = SpreadsheetApp.getUi();
 var custom_menu = ui.createMenu('╰( ⁰ ਊ ⁰ )━☆ﾟ.*･｡ﾟ');
-var sheet_id = '1agtroGoY78fsVVBnQpMmAUx7ktVw7hkpI8aroTk8rx8'; //replace this with the id of your Attendees sheet.  ex: https://docs.google.com/spreadsheets/d/[[1agtroGoY78fsVVBnQpMmAUx7ktVw7hkpI8aroTk8rx8]]/edit#gid=0
-var template_doc_id = '186x2do67hk7mGlbBkkgZWMC4v-tTL38NGSaWPrHthYM'; //replace this with the id of your Generator Template document.  ex: https://docs.google.com/document/d/[[186x2do67hk7mGlbBkkgZWMC4v-tTL38NGSaWPrHthYM]]/edit
-var parent_folder_id = '1n6ipxLyykKWzc0_NTGJ_MXrWV7mfP6Xo'; //replace this with the id of the folder this all lives in.  ex: https://drive.google.com/drive/folders/[[1n6ipxLyykKWzc0_NTGJ_MXrWV7mfP6Xd]]
+var sheet_id = 'SHEET-ID-PLACEHOLDER'; //replace this with the id of your Attendees sheet.  ex: https://docs.google.com/spreadsheets/d/[[1agtroGoY78fsVVBnQpMmAUx7ktVw7hkpI8aroTk8rx8]]/edit#gid=0
+var template_doc_id = 'TEMPLATE-DOC-ID-PLACEHOLDER'; //replace this with the id of your Generator Template document.  ex: https://docs.google.com/document/d/[[186x2do67hk7mGlbBkkgZWMC4v-tTL38NGSaWPrHthYM]]/edit
+var parent_folder_id = 'PARENT-FOLDER-ID-PLACEHOLDER'; //replace this with the id of the folder this all lives in.  ex: https://drive.google.com/drive/folders/[[1n6ipxLyykKWzc0_NTGJ_MXrWV7mfP6Xd]]
 var cells = {
   aliases: 'C2:C',
   date: 'A2:A3',
