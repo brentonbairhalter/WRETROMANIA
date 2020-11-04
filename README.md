@@ -46,4 +46,8 @@ This generator is used to create and prefill our retrospectives template with th
   * There should be a dialog that indicates the script has completed.  Now a new menu option is added to the custom menu
 * Click "Copy Link"
   * This will open a modal that you can double click and copy for sharing with the team
-  * Still investigating if it can copy to clipboard
+
+## Items to investigate
+
+* Can we copy to clipboard?
+*
